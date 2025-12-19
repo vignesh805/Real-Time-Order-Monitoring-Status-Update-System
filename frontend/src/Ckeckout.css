@@ -1,0 +1,68 @@
+.checkout-page {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.checkout-page input,
+.checkout-page textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.payment-section {
+  margin: 16px 0;
+  padding: 12px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+}
+
+.payment-section label {
+  display: block;
+  margin-top: 8px;
+  cursor: pointer;
+}
+
+.checkout-page button {
+  width: 100%;
+  padding: 12px;
+  background: #00b55b;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.payment-section {
+  margin: 0px 0;
+  padding: 4px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+}
+
+.payment-section h4 {
+  margin-top: 0px;
+  margin-bottom: 2px;
+  font-size: 25px;
+}
+
+
+.payment-option {
+  display: flex;
+  align-items: center;  
+  gap: 8px;           
+  padding: 2px 0;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+
+.payment-option input[type="radio"] {
+  width: 16px;
+  height: 16px;
+}

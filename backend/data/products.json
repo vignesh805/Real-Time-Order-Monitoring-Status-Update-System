@@ -1,0 +1,82 @@
+[
+  {
+    "name": "tomato",
+    "description": "super good",
+    "price": 15,
+    "stock": 2,
+    "imageUrl": "/uploads/84ad85349220e9555edb49a9d0c8e7d9-tomato.jfif",
+    "id": 1766133728591
+  },
+  {
+    "name": "orange",
+    "description": "good orange",
+    "price": 20,
+    "stock": 2,
+    "imageUrl": "/uploads/1ec1c0c924640162215d19ffa7697ed5-orange.jfif",
+    "id": 1766134854868
+  },
+  {
+    "name": "potato",
+    "description": "vegetables",
+    "price": 13,
+    "stock": 4,
+    "imageUrl": "/uploads/c3c16009fe81a4d1a33c7ac1864ff901-potato.jfif",
+    "id": 1766142277457
+  },
+  {
+    "name": "watermelon",
+    "description": "good fruit",
+    "price": 25,
+    "stock": 6,
+    "imageUrl": "/uploads/2af5916943beb199d7a4671fd56fd4a4-watermelon.jfif",
+    "id": 1766142318915
+  },
+  {
+    "name": "carrot",
+    "description": "vegetable",
+    "price": 16,
+    "stock": 3,
+    "imageUrl": "/uploads/9490ed9728602933aeffd77bf5c5b8f8-carrot.jfif",
+    "id": 1766142347846
+  },
+  {
+    "name": "mushroom",
+    "description": "good protein",
+    "price": 17,
+    "stock": 6,
+    "imageUrl": "/uploads/c426e799f2475035b891768e34abd0fc-mushroom.jfif",
+    "id": 1766142594438
+  },
+  {
+    "name": "avocado",
+    "description": "high protein",
+    "price": 30,
+    "stock": 2,
+    "imageUrl": "/uploads/fcb788f6f5adae1c86d46957f7934e0c-avocado.jfif",
+    "id": 1766142773449
+  },
+  {
+    "name": "banana",
+    "description": "good fruit",
+    "price": 18,
+    "stock": 10,
+    "imageUrl": "/uploads/f1727713a3266d45131098cede7af160-banana.jfif",
+    "id": 1766142796252
+  },
+  {
+    "name": "ginger",
+    "description": "good",
+    "price": 20,
+    "stock": 1,
+    "imageUrl": "/uploads/1b5c6377ed66042a5220dab16226b0c3-ginger.jfif",
+    "id": 1766142831348
+  },
+  {
+    "name": "lemon",
+    "description": "good",
+    "price": 10,
+    "stock": 8,
+    "imageUrl": "/uploads/cee129412ac54127dd327559f52a1bad-lemon.jfif",
+    "id": 1766142858792
+  }
+]
